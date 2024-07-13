@@ -19,7 +19,7 @@ ruby -v
 ### If you dont have Ruby installed
 
 #### Windows
-1. Download and install RubyInstaller from [RubyInstaller for Windows](https://rubyinstaller.org/).
+1. Download and install RubyInstaller from [Ruby Installer for Windows](https://rubyinstaller.org/).
 2. Run the installer and follow the setup instructions. Make sure to check the option "Add Ruby executables to your PATH" during installation.
 
 #### Debian
